@@ -16,4 +16,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: xineroar/tmmcli-everyhour:latest
+        tags: tobywong080/tmmcli-everyhour:latest
