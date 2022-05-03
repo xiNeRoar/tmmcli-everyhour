@@ -17,4 +17,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: tobywong080/tmmcli-everyhour:latest
+        tags: tobywong080/tmmcli-everyhour:updated
